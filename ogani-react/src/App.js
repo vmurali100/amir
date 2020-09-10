@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Sample from "./Sample";
+import "./css/elegant-icons.css";
 import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 
